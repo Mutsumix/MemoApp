@@ -7,7 +7,7 @@ export default function MemoList() {
     <View>
       <View style={styles.memoListItem}>
         <View>
-          <Text style={styles.memoListItemTitle}>履歴１</Text>
+          <Text style={styles.memoListItemTitle}>踏切</Text>
           <Text style={styles.memoListItemDate}>2020年12月24日 10:00:00</Text>
         </View>
         <View>
@@ -16,7 +16,7 @@ export default function MemoList() {
       </View>
       <View style={styles.memoListItem}>
         <View>
-          <Text style={styles.memoListItemTitle}>履歴２</Text>
+          <Text style={styles.memoListItemTitle}>山手線</Text>
           <Text style={styles.memoListItemDate}>2020年12月24日 10:00:00</Text>
         </View>
         <View>
@@ -25,7 +25,7 @@ export default function MemoList() {
       </View>
       <View style={styles.memoListItem}>
         <View>
-          <Text style={styles.memoListItemTitle}>履歴３</Text>
+          <Text style={styles.memoListItemTitle}>都電荒川線</Text>
           <Text style={styles.memoListItemDate}>2020年12月24日 10:00:00</Text>
         </View>
         <View>
@@ -34,7 +34,7 @@ export default function MemoList() {
       </View>
       <View style={styles.memoListItem}>
         <View>
-          <Text style={styles.memoListItemTitle}>履歴４</Text>
+          <Text style={styles.memoListItemTitle}>有楽町線</Text>
           <Text style={styles.memoListItemDate}>2020年12月24日 10:00:00</Text>
         </View>
         <View>
