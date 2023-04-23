@@ -5,7 +5,7 @@ export default function AppBar() {
   return (
     <View style={styles.appbar}>
       <View style={styles.appbarInner}>
-        <Text style={styles.appbarTitle}>Metering App</Text>
+        <Text style={styles.appbarTitle}>るろうに検針</Text>
         <Text style={styles.appbarRight}>ログアウト</Text>
       </View>
     </View>
